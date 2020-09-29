@@ -1,0 +1,23 @@
+Run Number: 1
+Date: 2020-09-29 16:22:23.633195
+Start number: 1  End number: 21  Interval: 2
+['2', '4', '6', '8', '10', '12', '14', '16', '18', '20']
+Total number of values between start and end: 10
+
+Run Number: 2
+Date: 2020-09-29 16:23:31.855614
+Start number: 50  End number: 100  Interval: 5
+['51', '56', '61', '66', '71', '76', '81', '86', '91', '96']
+Total number of values between start and end: 10
+
+Run Number: 3
+Date: 2020-09-29 16:24:19.678326
+Start number: 35  End number: 100  Interval: 10
+['36', '46', '56', '66', '76', '86', '96']
+Total number of values between start and end: 7
+
+Run Number: 4
+Date: 2020-09-29 16:26:25.648966
+Start number: 10  End number: 50  Interval: 5
+['11', '16', '21', '26', '31', '36', '41', '46']
+Total number of values between start and end: 8
