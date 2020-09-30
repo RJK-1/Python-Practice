@@ -37,7 +37,7 @@ def printresults (answer):
         # Writing the new entry using the correct run number from above.
         s = open("c:/users/Ralf/Desktop/Numbers.txt", "a")
         if runnumber > 1:
-            fo.write("\n\n")
+            s.write("\n\n")
         s.write(f"Run Number: {runnumber}\nDate: {datetime.now()}\n")
         s.write(f"Start number: {startno}  End number: {endno}  Interval: {interval1}\n")
         s.write(str(numberslist))
